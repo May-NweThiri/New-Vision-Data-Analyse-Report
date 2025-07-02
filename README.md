@@ -29,6 +29,5 @@ The internship experience was invaluable in transforming theoretical knowledge i
 
 ## Contact
 
-- **Name:** May Nwe Thiri  
-- **Email:** youremail@domain.com  
+- **Name:** May Nwe Thiri    
 - **GitHub:** [May-NweThiri](https://github.com/May-NweThiri)
